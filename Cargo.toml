@@ -1,0 +1,11 @@
+[package]
+name = "open-bomberman"
+version = "0.1.0"
+authors = ["Kenneth <Kenneth@DESKTOP-VHTOUHH>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ndarray = "0.15.3"
+sdl2 = "0.34.5"
